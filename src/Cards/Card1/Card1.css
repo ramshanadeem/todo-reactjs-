@@ -1,0 +1,14 @@
+.card1{
+    width: 23vw;
+    height: 23vw;
+}
+.img{
+    width: 23vw;
+    height: 15vw;
+}
+.card1-content{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}

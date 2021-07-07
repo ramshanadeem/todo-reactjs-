@@ -1,0 +1,14 @@
+.hero-sec{
+    display: flex !important;
+    justify-content: space-evenly !important;
+   margin-top: 2%;
+}
+.imghero{
+ width:35vw !important;
+ height: 45vw !important;
+}
+.text{
+   align-items: center;
+   margin-left: 2%;
+
+}

@@ -1,0 +1,32 @@
+.navbar-main{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 2px;
+}
+.nav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.links{
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    width:100%;
+}
+.link{
+    color: black;
+    text-decoration: none;
+
+}
+.underline{
+    color: coral;
+    border-bottom: 5.4px solid orangered;
+}
+.logo{
+    width: 20vw;
+ margin-left: 2%;
+ font-weight: bolder;
+}
